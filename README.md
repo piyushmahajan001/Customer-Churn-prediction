@@ -9,41 +9,26 @@ Customer churn is a common problem across businesses in many sectors. If you wan
 **Steps involved in Model Deployment:**
 
 * Data Analysis (EDA)
-
-Data Preprocessing.
-
-Feature Engineering.
-
-Feature Selection (SelectKBest)
-
-Fit into Algorithm (ML Algorithm)
-
-Hyper Parameter Tunning (RandomSearchCV)
-
-Dump model (Pickle)
-
+* Data Preprocessing.
+* Feature Engineering.
+* Feature Selection (SelectKBest)
+* Fit into Algorithm (ML Algorithm)
+* Hyper Parameter Tunning (RandomSearchCV)
+* Dump model (Pickle)
 
 **Packages Used:**
 
 This project requires Python and the following packages are in below:
 
-Numpy
-
-Pandas
-
-Matplotlib
-
-Seaborn
-
-Scikit-learn
-
-Scipy
-
-Imblearn
-
-Counter
-
-
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Scipy
+* Imblearn
+* Counter
+* 
 **Objective:**
 
 Predict the customer likely to be Churn or not by using Gradient Boost Classifier and target is to find customer to be Churn or Not.
