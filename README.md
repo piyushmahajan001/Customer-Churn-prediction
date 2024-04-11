@@ -20,15 +20,15 @@ Customer churn is a common problem across businesses in many sectors. If you wan
 
 This project requires Python and the following packages are in below:
 
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Scipy
-* Imblearn
-* Counter
-* 
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://pandas.pydata.org/)
+* [Seaborn](https://pandas.pydata.org/)
+* [Scikit-learn](https://pandas.pydata.org/)
+* [Scipy](https://scipy.org/)
+* [Imblearn](https://imbalanced-learn.org/stable/)
+* [Counter](https://docs.python.org/3/library/collections.html)
+  
 **Objective:**
 
 Predict the customer likely to be Churn or not by using Gradient Boost Classifier and target is to find customer to be Churn or Not.
