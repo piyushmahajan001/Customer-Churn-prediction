@@ -8,7 +8,7 @@ Customer churn is a common problem across businesses in many sectors. If you wan
 
 **Steps involved in Model Deployment:**
 
-Data Analysis (EDA)
+* Data Analysis (EDA)
 
 Data Preprocessing.
 
