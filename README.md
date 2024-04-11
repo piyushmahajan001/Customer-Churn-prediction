@@ -1,5 +1,8 @@
 # Customer-Churn-prediction
 
+![image](https://github.com/piyushmahajan001/Customer-Churn-prediction/assets/166121676/14650815-4baa-4205-8a4e-9408d0f9dd99)
+
+
 Churn prediction means detecting which customers are likely to cancel a subscription to a service based on how they use the service. It is a critical prediction for many businesses because acquiring new clients often costs more than retaining existing ones. Once you can identify those customers that are at risk of cancelling, you should know exactly what marketing action to take for each individual customer to maximise the chances that the customer will remain.
 
 **Why is it so important?**
